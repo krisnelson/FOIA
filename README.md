@@ -1,32 +1,18 @@
-## Welcome to GitHub Pages
+## Kristopher's Repository of FOIA and PRA requests and responses
 
-You can use the [editor on GitHub](https://github.com/krisnelson/FOIA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### "Federated" Police Surveillance in San Diego, California
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### FOIA/PRA Resources & Info
+For more information on FOIA/PRA, see the following:
+* [MuckRock](https://www.muckrock.com/)
+* [iFOIA](https://www.ifoia.org/)
+* [FOIA Wiki](https://www.ifoia.org/foia.wiki): The FOIA Wiki is a free and collaborative resource on the federal Freedom of Information Act provided by the Reporters Committee for Freedom of the Press, with contributions from The FOIA Project at TRAC, MuckRock, The National Security Archive, FOIA Mapper, Open the Government, and other users
+* [State Open Government Guide](http://www.rcfp.org/open-government-guide): The Open Government Guide is a complete compendium of information on every state's open records and open meetings laws. Each state's section is arranged according to a standard outline, making it easy to compare laws in various states.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
