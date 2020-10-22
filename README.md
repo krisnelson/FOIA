@@ -4,11 +4,11 @@
 This started with trying to find out more about "SafeSanDiego-Lemon Grove":
 * [San Diego Sheriff’s Office to Unveil Surveillance Network](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/San%20Diego%20Sheriffs%20Office%20to%20Unveil%20Surveillance%20Network.pdf) from the San Diego Union-Tribune
 
-#### [First Requests (Sept. 16, 2020](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/2020-09-16%20PRA%20Requests%20x2.md)
-* [S000190-091620 (Contracts, POs) Response](https://github.com/krisnelson/FOIA/tree/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/S000190-091620%20(Contracts%2C%20POs)
-* [S000191-091620 (Manuals, Training) Response](https://github.com/krisnelson/FOIA/tree/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/S000191-091620%20(Manuals%2C%20Training))
+#### [First Set of Requests on Sept. 16, 2020](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/2020-09-16%20PRA%20Requests%20x2.md)
+* [S000190-091620 - Contracts, POs](https://github.com/krisnelson/FOIA/tree/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/S000190-091620%20(Contracts%2C%20POs)
+* [S000191-091620 - Manuals, Training](https://github.com/krisnelson/FOIA/tree/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/S000191-091620%20(Manuals%2C%20Training))
 
-#### [Second Requests (Oct. 18, 2020)](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/2020-10-18%20PRA%20Requests%20x7.md)
+#### [Second Set of Requests on Oct. 18, 2020](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/2020-10-18%20PRA%20Requests%20x7.md)
 * response pending
 
 ### FOIA/PRA Resources & Info
