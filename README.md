@@ -1,4 +1,4 @@
-## Kristopher's Repository of FOIA and PRA requests and responses
+## [Kristopher](https://krisnelson.org)'s Repository of FOIA and PRA requests and responses
 [https://krisnelson.github.io/FOIA/](https://krisnelson.github.io/FOIA/)
 
 ### "Federated" Police Surveillance in San Diego, California
