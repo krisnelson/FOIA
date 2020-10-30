@@ -2,5 +2,4 @@
 >Are you able to clarify the content of the records that you seek? The Sheriff's Department understands the type of records that you are seeking ("Formal or informal agreements, contracts, memorandums, proposals, requests, or similar documents or agreements"), however, the Sheriff's Department does not understand the content of the records that you are seeking. Please provide additional information describing the content of the documents that you seek in response to this request.
 
 ## My clarification on October 30, 2020:
-
-	
+> Responses to previous CPRA requests, including San Diego County Sheriff's Department Procedure § 6.136 (Video Federation and Integration), indicate that the Sheriff's Department possesses some kind of technological system that provides "video federation and integration" capabilities, allowing the members of the Department to view or access multiple dissimilar video feeds in some kind of unified fashion. I am seeking records with contents describing and identifying more specifically what that "federation and integration" system is in terms of who, for example, supplies it to the Department or who supports it for the Department.
