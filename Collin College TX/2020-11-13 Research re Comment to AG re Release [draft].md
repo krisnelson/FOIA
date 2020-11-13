@@ -25,3 +25,8 @@ Re anticipation of litigation: [https://www.texasattorneygeneral.gov/sites/defau
 * Expressing even a reasonable fear of litigation because it has been publicly accused of violating an employee's fundamental rights does not meet Collin College's burden of showing that "litigation is reasonably anticipated." See Open Records Decision No. 331 (1982), Open Records Decision No. 361 (1983) at 2. Sufficient "objective steps towards filing suit" must be taken, such as the hiring of an attorney combined with assertions of an intent to sue. Open Records Decision No. 331 (1982), Open Records Decision No. 555 (1990). 
 * Collin College has shown insufficient evidence that any such "objective steps" have been taken in this case.
 * (Refute also with public statements from FIRE letter or Tweets disclaiming intent to sue?)
+
+## Info from Freedom of Information Foundation of Texas (11/13/20) - Bill Aleshire 
+Very helpful people. They have a [FOI Hotline](http://foift.org/resources/foi-hotline/) that talked me through this part of the process (not legal advice, etc.)
+* I can call my letter to the AG a "response from requestor" 
+* The Foundation has been lobbying to reduce the scope of the "anticipated litigation" exception, which they consider overbroad and overused
