@@ -1,6 +1,10 @@
 ## [Kristopher](https://krisnelson.org)'s Repository of FOIA and PRA requests and responses
 [https://krisnelson.github.io/FOIA/](https://krisnelson.github.io/FOIA/)
 
+### Collin College (Texas) Faculty Speech
+See more context at FIRE: [Collin College stonewalls inquiries into legislators' "contacts" over professor's tweets about Vice President Pence](https://www.thefire.org/collin-college-stonewalls-inquiries-into-legislators-contacts-over-professors-tweets-about-vice-president-pence/) (November 12, 2020).
+* [Files, including initial request, response, and letter from outside counsel to AG trying to avoid providing other responsive documents](https://github.com/krisnelson/FOIA/tree/main/Collin%20College%20TX)
+
 ### "Federated" Police Surveillance in San Diego, California
 This started with trying to find out more about "SafeSanDiego-Lemon Grove":
 * [San Diego Sheriff’s Office to Unveil Surveillance Network](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/SafeSanDiego-Lemon%20Grove/San%20Diego%20Sheriffs%20Office%20to%20Unveil%20Surveillance%20Network.pdf) from the San Diego Union-Tribune
