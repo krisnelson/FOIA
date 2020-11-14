@@ -1,4 +1,4 @@
-## [Kristopher](https://krisnelson.org)'s Repository of FOIA and PRA requests and responses
+## [Kristopher](https://krisnelson.org)'s Repository of FOIA, California PRA, and Texas PIA requests and responses
 [https://krisnelson.github.io/FOIA/](https://krisnelson.github.io/FOIA/)
 
 ### Collin College (Texas) Faculty Speech
