@@ -30,3 +30,4 @@ Re anticipation of litigation: [https://www.texasattorneygeneral.gov/sites/defau
 Very helpful people. They have a [FOI Hotline](http://foift.org/resources/foi-hotline/) that talked me through this part of the process (not legal advice, etc.)
 * I can call my letter to the AG a "response from requestor" 
 * The Foundation has been lobbying to reduce the scope of the "anticipated litigation" exception, which they consider overbroad and overused
+* Suggested parsing FIRE letters carefully to see what they have communicated about threat of litigation
