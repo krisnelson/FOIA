@@ -19,6 +19,7 @@ This started with trying to find out more about "SafeSanDiego-Lemon Grove":
 * [Purchase order for "Genetec" (200 licenses)](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/Federated%20Video%20System/S000294-101820/2020-11-09%20563225-00_Contract.pdf): $72,000.00 on Aug. 26. 2020
 * [Purchase order for "GENETEC_CITIGRAF - STRATEGIC DECISION SUPPORT"](https://github.com/krisnelson/FOIA/blob/main/San%20Diego%20County%20Sheriff/Federated%20Video%20System/S000294-101820/2020-11-09%20PO563605-00_GENETEC_CITIGRAF_11.1.20-10.31.21.pdf): $286,750.00 on Oct. 27. 2020
 
+#### [Response from the City of Lemon Grove](https://github.com/krisnelson/FOIA/tree/main/San%20Diego%20County%20Cities/Lemon%20Grove) re SafeSanDiego-Lemon Grove
 
 ### FOIA/PRA Resources & Info
 For more information on FOIA/PRA, see the following:
