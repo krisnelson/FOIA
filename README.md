@@ -1,4 +1,5 @@
 ## [Kristopher](https://krisnelson.org)'s Repository of FOIA, California PRA, and Texas PIA requests and responses
+Note that I am working on a new front-end site at [freetherecords.org](https://freetherecords.org) to organize and track these requests and responses. This may also mean a new organization for the repository of received records and associated communications. 
 
 ### "Federated" Police Surveillance in San Diego, California
 This started with trying to find out more about "SafeSanDiego-Lemon Grove":
